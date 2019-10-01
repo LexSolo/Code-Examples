@@ -1,0 +1,11 @@
+/home/lex/C#Projects/bin/Debug/netcoreapp2.2/C#Projects.deps.json
+/home/lex/C#Projects/bin/Debug/netcoreapp2.2/C#Projects.runtimeconfig.json
+/home/lex/C#Projects/bin/Debug/netcoreapp2.2/C#Projects.runtimeconfig.dev.json
+/home/lex/C#Projects/bin/Debug/netcoreapp2.2/C#Projects.dll
+/home/lex/C#Projects/bin/Debug/netcoreapp2.2/C#Projects.pdb
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.csprojAssemblyReference.cache
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.csproj.CoreCompileInputs.cache
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.AssemblyInfoInputs.cache
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.AssemblyInfo.cs
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.dll
+/home/lex/C#Projects/obj/Debug/netcoreapp2.2/C#Projects.pdb
