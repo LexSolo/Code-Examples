@@ -86,7 +86,6 @@ namespace C_Projects
                 foreach (string line in lines)
                 {
                     newLines[i] = rgx.Replace(line, "");
-//                    newLines[i] = rgx.Replace(line, ";", " "); // -.?!)(,:;\"
                     i++;
                 }
             }
